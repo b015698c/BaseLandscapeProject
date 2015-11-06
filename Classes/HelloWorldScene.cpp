@@ -6,6 +6,8 @@ USING_NS_CC;
 
 using namespace cocostudio::timeline;
 
+// Hi
+
 Scene* HelloWorld::createScene()
 {
     // 'scene' is an autorelease object
